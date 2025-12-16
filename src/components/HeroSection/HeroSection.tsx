@@ -3,7 +3,6 @@
 import { useState, useEffect } from "react";
 import { Badge } from "../lightswind/badge";
 import { TypingText } from "../lightswind/TypingText";
-import { WoofyHover } from "../lightswind/woofy-hover";
 import WoofyHoverImage from "../lightswind/woofy-hover-image";
 import { motion } from "framer-motion";
 

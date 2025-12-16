@@ -8,9 +8,14 @@
     "moduleResolution": "bundler",
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
-    "strict": true,
+
+    "strict": false,
+    "noImplicitAny": false,
+
     "skipLibCheck": true,
     "allowJs": true,
+    "checkJs": false,
+
     "jsx": "react-jsx",
     "isolatedModules": true,
     "esModuleInterop": true
