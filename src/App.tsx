@@ -93,17 +93,6 @@ function App() {
   return (
     <div className="bg-background min-h-screen flex items-center justify-center">
       <StripedBackground className={"fixed z-0 blur-xs"} />
-      <SmokeyCursor
-        simulationResolution={256}
-        dyeResolution={2048}
-        densityDissipation={2}
-        curl={5}
-        splatForce={8000}
-        enableShading={true}
-      />
-
-
-         
 
       <ReactLenis root>
         <Header />
