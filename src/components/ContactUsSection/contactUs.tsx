@@ -52,20 +52,20 @@ export const ContactUsSection = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "hello@arkosaha.com",
-      link: "mailto:hello@arkosaha.com",
+      value: "arkosaha61005@gmail.com",
+      link: "mailto:arkosaha61005@gmail.com",
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+91 (555) 123-4567",
-      link: "tel:+91-555-123-4567",
+      value: "+8801867747152",
+      link: "tel:+8801867747152",
     },
     {
       icon: MapPin,
       label: "Location",
-      value: "Kolkata, India",
-      link: "#",
+      value: "Mirpur, Dhaka, Bangladesh",
+      link: "https://maps.app.goo.gl/VUob3TqaXWUZiuuz6",
     },
   ];
 
